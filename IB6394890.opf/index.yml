@@ -1,0 +1,11 @@
+id: 93b4c4913eb64b5481a7499ba799ab28
+annotation_type: index
+revision: '00001'
+annotations:
+  7f2565829cb64e01a1488eaad389fff5:
+    base: D4CD.txt
+    Chapters:
+    - title: Māṇavikā
+      span:
+        start: 0
+        end: 8853
